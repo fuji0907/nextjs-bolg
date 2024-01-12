@@ -31,7 +31,7 @@ export default function Home({allPostsData}) {
       </Head>
       <section className={utilStyle.headingMd}>
         <p>
-          このブログは社会人が理想の身体を作るために必要な情報をアップしています
+          このブログは学生が理想の身体を作るために必要な情報をアップロードしています
         </p>
       </section>
 
